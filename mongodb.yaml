@@ -1,0 +1,6 @@
+# Values file for bitnami/mongodb
+auth:
+  enabled: false
+persistence:
+  size: 2Gi
+  mountPath: /mongodb
